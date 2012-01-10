@@ -46,7 +46,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                 <rect key="frame" x="0.0" y="226" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
-                                    <navigationItem title="Title" id="VeE-9t-tQ6"/>
+                                    <navigationItem title="hello world" id="VeE-9t-tQ6"/>
                                 </items>
                             </navigationBar>
                         </subviews>
